@@ -1,4 +1,4 @@
-name: Website Screenshots
+name: website-screenshots
 
 on:
   push:
@@ -21,7 +21,9 @@ jobs:
         run: npm install puppeteer
 
       - name: Take screenshots
-        run: node .github/workflows/scripts/take-screenshots.js
+        run: node .github/workflows/scripts/screenshot.js
+        env:
+            PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome
 
       - name: Commit and push screenshots
         run: |
