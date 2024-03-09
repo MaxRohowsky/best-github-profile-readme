@@ -1,0 +1,1756 @@
+[
+  {
+    "categoryName": "Github Actions 🤖",
+    "list": [
+      {
+        "githubUrl": "https://github.com/sw-yx",
+        "nickName": "Shawn Wang",
+        "hasGif": true,
+        "filePath": "screenshots/sw-yx.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 786
+      },
+      {
+        "githubUrl": "https://github.com/thmsgbrt",
+        "nickName": "Thomas Guibert",
+        "hasGif": false,
+        "filePath": "screenshots/thmsgbrt.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 909
+      },
+      {
+        "githubUrl": "https://github.com/bdougie",
+        "nickName": "Brian Douglas",
+        "hasGif": true,
+        "filePath": "screenshots/bdougie.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/simonw",
+        "nickName": "Simon Willison",
+        "hasGif": false,
+        "filePath": "screenshots/simonw.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/mscoutermarsh",
+        "nickName": "Mike Coutermarsh",
+        "hasGif": true,
+        "filePath": "screenshots/mscoutermarsh.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1165
+      },
+      {
+        "githubUrl": "https://github.com/mokkapps",
+        "nickName": "Michael Hoffmann (Mokkapps)",
+        "hasGif": false,
+        "filePath": "screenshots/mokkapps.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 809
+      },
+      {
+        "githubUrl": "https://github.com/athul",
+        "nickName": "Athul Cyriac Ajay",
+        "hasGif": false,
+        "filePath": "screenshots/athul.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/gautamkrishnar",
+        "nickName": "Gautam Krishna R",
+        "hasGif": false,
+        "filePath": "screenshots/gautamkrishnar.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 603
+      },
+      {
+        "githubUrl": "https://github.com/roaldnefs",
+        "nickName": "Roald Nefs",
+        "hasGif": false,
+        "filePath": "screenshots/roaldnefs.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 709
+      },
+      {
+        "githubUrl": "https://github.com/maddhruv",
+        "nickName": "Dhruv Jain",
+        "hasGif": false,
+        "filePath": "screenshots/maddhruv.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/guilyx",
+        "nickName": "Erwin Lejeune",
+        "hasGif": false,
+        "filePath": "screenshots/guilyx.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/JessicaLim8",
+        "nickName": "Jessica Lim",
+        "hasGif": false,
+        "filePath": "screenshots/JessicaLim8.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 958
+      },
+      {
+        "githubUrl": "https://github.com/tw93",
+        "nickName": "侑夕-Tw93",
+        "hasGif": false,
+        "filePath": "screenshots/tw93.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/liununu",
+        "nickName": "liununu",
+        "hasGif": false,
+        "filePath": "screenshots/liununu.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/qu4k",
+        "nickName": "Filippo Rossi (qu4k)",
+        "hasGif": false,
+        "filePath": "screenshots/qu4k.jpeg",
+        "timestamp": 1608079710339,
+        "width": 800,
+        "height": 554
+      },
+      {
+        "githubUrl": "https://github.com/moepoi",
+        "nickName": "Moe Poi ~",
+        "hasGif": false,
+        "filePath": "screenshots/moepoi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 570
+      },
+      {
+        "githubUrl": "https://github.com/Spiderpig86",
+        "nickName": "Stanley Lim (Spiderpig86)",
+        "hasGif": false,
+        "filePath": "screenshots/Spiderpig86.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 629
+      },
+      {
+        "githubUrl": "https://github.com/ouuan",
+        "nickName": "Yufan You",
+        "hasGif": false,
+        "filePath": "screenshots/ouuan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 723
+      },
+      {
+        "githubUrl": "https://github.com/vidyabhandary",
+        "nickName": "Vidya Bhandary",
+        "hasGif": false,
+        "filePath": "screenshots/vidyabhandary.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/RaoHai",
+        "nickName": "Rao Hai",
+        "hasGif": false,
+        "filePath": "screenshots/RaoHai.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/blackcater",
+        "nickName": "Elon Tang (blackcater)",
+        "hasGif": true,
+        "filePath": "screenshots/blackcater.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 666
+      },
+      {
+        "githubUrl": "https://github.com/gargakshit",
+        "nickName": "Akshit Garg (gargakshit)",
+        "hasGif": false,
+        "filePath": "screenshots/gargakshit.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/mopig",
+        "nickName": "Leo",
+        "hasGif": false,
+        "filePath": "screenshots/mopig.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 522
+      },
+      {
+        "githubUrl": "https://github.com/jatin2003",
+        "nickName": "Jatin Rao",
+        "hasGif": false,
+        "filePath": "screenshots/jatin2003.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/teoxoy",
+        "nickName": "teoxoy",
+        "hasGif": false,
+        "filePath": "screenshots/teoxoy.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/d-koppenhagen",
+        "nickName": "Danny Koppenhagen",
+        "hasGif": false,
+        "filePath": "screenshots/d-koppenhagen.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/aralroca",
+        "nickName": "Aral Roca",
+        "hasGif": false,
+        "filePath": "screenshots/aralroca.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 745
+      },
+      {
+        "githubUrl": "https://github.com/codestackr",
+        "nickName": "codeSTACKr",
+        "hasGif": false,
+        "filePath": "screenshots/codestackr.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 707
+      },
+      {
+        "githubUrl": "https://github.com/lifeparticle",
+        "nickName": "lifeparticle",
+        "hasGif": false,
+        "filePath": "screenshots/lifeparticle.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 856
+      },
+      {
+        "githubUrl": "https://github.com/itgoyo",
+        "nickName": "itgoyo",
+        "hasGif": false,
+        "filePath": "screenshots/itgoyo.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      }
+    ]
+  },
+  {
+    "categoryName": "Game Mode 🚀",
+    "list": [
+      {
+        "githubUrl": "https://github.com/timburgan",
+        "nickName": "Tim Burgan",
+        "hasGif": false,
+        "filePath": "screenshots/timburgan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/benjaminsampica",
+        "nickName": "Ben Sampica",
+        "hasGif": false,
+        "filePath": "screenshots/benjaminsampica.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 893
+      },
+      {
+        "githubUrl": "https://github.com/DoubleGremlin181",
+        "nickName": "Kavish Hukmani",
+        "hasGif": false,
+        "filePath": "screenshots/DoubleGremlin181.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 902
+      },
+      {
+        "githubUrl": "https://github.com/JonathanGin52",
+        "nickName": "Jonathan Gin",
+        "hasGif": false,
+        "filePath": "screenshots/JonathanGin52.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 878
+      },
+      {
+        "githubUrl": "https://github.com/rossjrw",
+        "nickName": "Ross Williams",
+        "hasGif": false,
+        "filePath": "screenshots/rossjrw.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 760
+      },
+      {
+        "githubUrl": "https://github.com/kylepls",
+        "nickName": "kylepls",
+        "hasGif": false,
+        "filePath": "screenshots/kylepls.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/HFO4",
+        "nickName": "Aaron Liu",
+        "hasGif": false,
+        "filePath": "screenshots/HFO4.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 598
+      },
+      {
+        "githubUrl": "https://github.com/marcizhu",
+        "nickName": "marcizhu",
+        "hasGif": false,
+        "filePath": "screenshots/marcizhu.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 978
+      }
+    ]
+  },
+  {
+    "categoryName": "Code Mode 👨🏽‍💻",
+    "list": [
+      {
+        "githubUrl": "https://github.com/Thaiane",
+        "nickName": "Thaiane Braga",
+        "hasGif": false,
+        "filePath": "screenshots/Thaiane.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/ashbakernz",
+        "nickName": "Ash Baker",
+        "hasGif": false,
+        "filePath": "screenshots/ashbakernz.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/anmol098",
+        "nickName": "Anmol Singh",
+        "hasGif": false,
+        "filePath": "screenshots/anmol098.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/monkindey",
+        "nickName": "Kiho",
+        "hasGif": false,
+        "filePath": "screenshots/monkindey.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/martonlederer",
+        "nickName": "Marton",
+        "hasGif": false,
+        "filePath": "screenshots/martonlederer.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/rednafi",
+        "nickName": "Redowan Delowar",
+        "hasGif": false,
+        "filePath": "screenshots/rednafi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Zhenye-Na",
+        "nickName": "Zhenye Na",
+        "hasGif": false,
+        "filePath": "screenshots/Zhenye-Na.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 797
+      }
+    ]
+  },
+  {
+    "categoryName": "Dynamic Realtime 💫",
+    "list": [
+      {
+        "githubUrl": "https://github.com/abhisheknaiidu",
+        "nickName": "Abhishek Naidu",
+        "hasGif": true,
+        "filePath": "screenshots/abhisheknaiidu.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 710
+      },
+      {
+        "githubUrl": "https://github.com/anuraghazra",
+        "nickName": "Anurag Hazra",
+        "hasGif": false,
+        "filePath": "screenshots/anuraghazra.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 611
+      },
+      {
+        "githubUrl": "https://github.com/8bithemant",
+        "nickName": "Hemant Joshi",
+        "hasGif": false,
+        "filePath": "screenshots/8bithemant.jpeg",
+        "timestamp": 1601513189216,
+        "width": 800,
+        "height": 892
+      },
+      {
+        "githubUrl": "https://github.com/kittinan",
+        "nickName": "Kittinan",
+        "hasGif": false,
+        "filePath": "screenshots/kittinan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 629
+      },
+      {
+        "githubUrl": "https://github.com/novatorem",
+        "nickName": "Andrew Novac",
+        "hasGif": false,
+        "filePath": "screenshots/novatorem.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/C9-LinkRs",
+        "nickName": "Johnny Villegas",
+        "hasGif": false,
+        "filePath": "screenshots/C9-LinkRs.jpeg",
+        "timestamp": 1598673811185,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/andyruwruw",
+        "nickName": "andyruwruw",
+        "hasGif": false,
+        "filePath": "screenshots/andyruwruw.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 945
+      },
+      {
+        "githubUrl": "https://github.com/xcaq",
+        "nickName": "Kirill Feschenko",
+        "hasGif": false,
+        "filePath": "screenshots/xcaq.jpeg",
+        "timestamp": 1612140735046,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/daniakash",
+        "nickName": "Dani Akash",
+        "hasGif": false,
+        "filePath": "screenshots/daniakash.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 523
+      },
+      {
+        "githubUrl": "https://github.com/rusty-sj",
+        "nickName": "Rashmi Jadhav",
+        "hasGif": false,
+        "filePath": "screenshots/rusty-sj.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/zumrudu-anka",
+        "nickName": "Osman Durdağ",
+        "hasGif": false,
+        "filePath": "screenshots/zumrudu-anka.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/iampavangandhi",
+        "nickName": "iampavangandhi",
+        "hasGif": true,
+        "filePath": "screenshots/iampavangandhi.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 816
+      },
+      {
+        "githubUrl": "https://github.com/MacroPower",
+        "nickName": "Jacob Colvin",
+        "hasGif": false,
+        "filePath": "screenshots/MacroPower.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 682
+      },
+      {
+        "githubUrl": "https://github.com/rahul-jha98",
+        "nickName": "Rahul Jha",
+        "hasGif": true,
+        "filePath": "screenshots/rahul-jha98.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 763
+      },
+      {
+        "githubUrl": "https://github.com/DenverCoder1",
+        "nickName": "DenverCoder1",
+        "hasGif": false,
+        "filePath": "screenshots/DenverCoder1.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 1203
+      }
+    ]
+  },
+  {
+    "categoryName": "A Little Bit of Everything 😃",
+    "list": [
+      {
+        "githubUrl": "https://github.com/Raymo111",
+        "nickName": "Raymond Li",
+        "hasGif": true,
+        "filePath": "screenshots/Raymo111.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/MartinHeinz",
+        "nickName": "Martin Heinz",
+        "hasGif": true,
+        "filePath": "screenshots/MartinHeinz.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 685
+      },
+      {
+        "githubUrl": "https://github.com/adamalston",
+        "nickName": "Adam Alston",
+        "hasGif": true,
+        "filePath": "screenshots/adamalston.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/hedythedev",
+        "nickName": "Hedy Li",
+        "hasGif": false,
+        "filePath": "screenshots/hedythedev.jpeg",
+        "timestamp": 1623804832524,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/sciencepal",
+        "nickName": "Aditya Pal",
+        "hasGif": true,
+        "filePath": "screenshots/sciencepal.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 813
+      },
+      {
+        "githubUrl": "https://github.com/xunzhuo",
+        "nickName": "Xunzhuo",
+        "hasGif": true,
+        "filePath": "screenshots/xunzhuo.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 737
+      },
+      {
+        "githubUrl": "https://github.com/rafnixg",
+        "nickName": "Rafnix Guzmán",
+        "hasGif": false,
+        "filePath": "screenshots/rafnixg.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1027
+      },
+      {
+        "githubUrl": "https://github.com/cxyfreedom",
+        "nickName": "CxyFreedom",
+        "hasGif": false,
+        "filePath": "screenshots/cxyfreedom.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1180
+      },
+      {
+        "githubUrl": "https://github.com/minoveaz",
+        "nickName": "Miller Camilo Vega",
+        "hasGif": false,
+        "filePath": "screenshots/minoveaz.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/AbhishekMaira10",
+        "nickName": "Abhishek Maira",
+        "hasGif": false,
+        "filePath": "screenshots/AbhishekMaira10.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 627
+      },
+      {
+        "githubUrl": "https://github.com/khalby786",
+        "nickName": "Khaleel Gibran",
+        "hasGif": false,
+        "filePath": "screenshots/khalby786.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/apoorvtyagi",
+        "nickName": "Apoorv Tyagi",
+        "hasGif": true,
+        "filePath": "screenshots/apoorvtyagi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/syrashid",
+        "nickName": "Sy Rashid",
+        "hasGif": false,
+        "filePath": "screenshots/syrashid.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 919
+      },
+      {
+        "githubUrl": "https://github.com/claytonjhamilton",
+        "nickName": "Clayton Hamilton",
+        "hasGif": true,
+        "filePath": "screenshots/claytonjhamilton.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 637
+      },
+      {
+        "githubUrl": "https://github.com/cheesits456",
+        "nickName": "Quin Knight",
+        "hasGif": true,
+        "filePath": "screenshots/cheesits456.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1044
+      },
+      {
+        "githubUrl": "https://github.com/Jackyu-1999",
+        "nickName": "Jackyu-1999",
+        "hasGif": false,
+        "filePath": "screenshots/Jackyu-1999.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 634
+      },
+      {
+        "githubUrl": "https://github.com/raklaptudirm",
+        "nickName": "Rak Laptudirm",
+        "hasGif": false,
+        "filePath": "screenshots/raklaptudirm.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      }
+    ]
+  },
+  {
+    "categoryName": "Descriptive 🗒",
+    "list": [
+      {
+        "githubUrl": "https://github.com/filiptronicek",
+        "nickName": "Filip Troníček",
+        "hasGif": false,
+        "filePath": "screenshots/filiptronicek.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/garimasingh128",
+        "nickName": "Garima Singh",
+        "hasGif": true,
+        "filePath": "screenshots/garimasingh128.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 926
+      },
+      {
+        "githubUrl": "https://github.com/lizheming",
+        "nickName": "lizheming",
+        "hasGif": false,
+        "filePath": "screenshots/lizheming.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 588
+      },
+      {
+        "githubUrl": "https://github.com/you-create",
+        "nickName": "Nguyễn Hoàng Dương",
+        "hasGif": false,
+        "filePath": "screenshots/you-create.jpeg",
+        "timestamp": 1623804832524,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/sakshamtaneja21",
+        "nickName": "Saksham Taneja",
+        "hasGif": true,
+        "filePath": "screenshots/sakshamtaneja21.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 638
+      },
+      {
+        "githubUrl": "https://github.com/keshavsingh4522",
+        "nickName": "Keshav Singh",
+        "hasGif": true,
+        "filePath": "screenshots/keshavsingh4522.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 578
+      },
+      {
+        "githubUrl": "https://github.com/vidursatija",
+        "nickName": "Vidur Satija",
+        "hasGif": false,
+        "filePath": "screenshots/vidursatija.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 779
+      },
+      {
+        "githubUrl": "https://github.com/theabbie",
+        "nickName": "TheAbbie",
+        "hasGif": false,
+        "filePath": "screenshots/theabbie.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/dayyass",
+        "nickName": "Dani El-Ayyass",
+        "hasGif": false,
+        "filePath": "screenshots/dayyass.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      }
+    ]
+  },
+  {
+    "categoryName": "Simple but Innovative Ones 🤗",
+    "list": [
+      {
+        "githubUrl": "https://github.com/natemoo-re",
+        "nickName": "Nate Moore",
+        "hasGif": false,
+        "filePath": "screenshots/natemoo-re.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/jh3y",
+        "nickName": "Jhey Tompkins",
+        "hasGif": false,
+        "filePath": "screenshots/jh3y.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/WaylonWalker",
+        "nickName": "Waylon Walker",
+        "hasGif": false,
+        "filePath": "screenshots/WaylonWalker.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 897
+      },
+      {
+        "githubUrl": "https://github.com/vanshkapoor",
+        "nickName": "Vansh Kapoor",
+        "hasGif": false,
+        "filePath": "screenshots/vanshkapoor.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 558
+      },
+      {
+        "githubUrl": "https://github.com/harshkumarkhatri",
+        "nickName": "Harsh Kumar Khatri",
+        "hasGif": true,
+        "filePath": "screenshots/harshkumarkhatri.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 773
+      },
+      {
+        "githubUrl": "https://github.com/stephenajulu",
+        "nickName": "Stephen Ajulu",
+        "hasGif": false,
+        "filePath": "screenshots/stephenajulu.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/MarikIshtar007",
+        "nickName": "Haany Ali",
+        "hasGif": true,
+        "filePath": "screenshots/MarikIshtar007.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1106
+      },
+      {
+        "githubUrl": "https://github.com/ashleymavericks",
+        "nickName": "Anurag Singh",
+        "hasGif": false,
+        "filePath": "screenshots/ashleymavericks.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Rishit-dagli",
+        "nickName": "Rishit Dagli",
+        "hasGif": true,
+        "filePath": "screenshots/Rishit-dagli.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 562
+      },
+      {
+        "githubUrl": "https://github.com/vinitshahdeo",
+        "nickName": "Vinit Shahdeo",
+        "hasGif": false,
+        "filePath": "screenshots/vinitshahdeo.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/f",
+        "nickName": "Fatih Kadir Akın",
+        "hasGif": false,
+        "filePath": "screenshots/f.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/lucasvazq",
+        "nickName": "Lucas Vazquez",
+        "hasGif": false,
+        "filePath": "screenshots/lucasvazq.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/jaywcjlove",
+        "nickName": "小弟调调™",
+        "hasGif": false,
+        "filePath": "screenshots/jaywcjlove.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/alx365",
+        "nickName": "alx365",
+        "hasGif": false,
+        "filePath": "screenshots/alx365.jpeg",
+        "timestamp": 1608079710339,
+        "width": 800,
+        "height": 826
+      },
+      {
+        "githubUrl": "https://github.com/halfrost",
+        "nickName": "一缕殇流化隐半边冰霜",
+        "hasGif": true,
+        "filePath": "screenshots/halfrost.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/sriharikapu",
+        "nickName": "Srihari Kapu",
+        "hasGif": false,
+        "filePath": "screenshots/sriharikapu.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 531
+      },
+      {
+        "githubUrl": "https://github.com/arturssmirnovs",
+        "nickName": "Arturs Smirnovs",
+        "hasGif": false,
+        "filePath": "screenshots/arturssmirnovs.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/vaaski",
+        "nickName": "vaaski",
+        "hasGif": false,
+        "filePath": "screenshots/vaaski.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Defcon27",
+        "nickName": "Hemanth Kollipara",
+        "hasGif": true,
+        "filePath": "screenshots/Defcon27.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 722
+      },
+      {
+        "githubUrl": "https://github.com/Terabyte17",
+        "nickName": "Yash Sahijwani",
+        "hasGif": true,
+        "filePath": "screenshots/Terabyte17.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 751
+      },
+      {
+        "githubUrl": "https://github.com/onimur",
+        "nickName": "Onimur",
+        "hasGif": false,
+        "filePath": "screenshots/onimur.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 669
+      },
+      {
+        "githubUrl": "https://github.com/techytushar",
+        "nickName": "Tushar Mittal",
+        "hasGif": true,
+        "filePath": "screenshots/techytushar.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1181
+      },
+      {
+        "githubUrl": "https://github.com/brunotacca",
+        "nickName": "Bruno Tacca",
+        "hasGif": false,
+        "filePath": "screenshots/brunotacca.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Wrapperup",
+        "nickName": "Matthew Taylor",
+        "hasGif": false,
+        "filePath": "screenshots/Wrapperup.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 717
+      }
+    ]
+  },
+  {
+    "categoryName": "Typing.. Mode 🎰",
+    "list": [
+      {
+        "githubUrl": "https://github.com/matyo91",
+        "nickName": "Mathieu Ledru",
+        "hasGif": true,
+        "filePath": "screenshots/matyo91.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 630
+      },
+      {
+        "githubUrl": "https://github.com/CyrisXD",
+        "nickName": "CyrisXD",
+        "hasGif": true,
+        "filePath": "screenshots/CyrisXD.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/mmphego",
+        "nickName": "Mpho Mphego",
+        "hasGif": true,
+        "filePath": "screenshots/mmphego.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 742
+      },
+      {
+        "githubUrl": "https://github.com/ABSphreak",
+        "nickName": "Abhinav Sharma",
+        "hasGif": true,
+        "filePath": "screenshots/ABSphreak.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 577
+      },
+      {
+        "githubUrl": "https://github.com/MasonSlover",
+        "nickName": "Mason Slover",
+        "hasGif": true,
+        "filePath": "screenshots/MasonSlover.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/SuperSupeng",
+        "nickName": "SuperSupeng",
+        "hasGif": true,
+        "filePath": "screenshots/SuperSupeng.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      }
+    ]
+  },
+  {
+    "categoryName": "Anime 👾",
+    "list": [
+      {
+        "githubUrl": "https://github.com/innng",
+        "nickName": "Ing",
+        "hasGif": true,
+        "filePath": "screenshots/innng.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Xx-Ashutosh-xX",
+        "nickName": "Ashutosh",
+        "hasGif": true,
+        "filePath": "screenshots/Xx-Ashutosh-xX.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/edisonlee55",
+        "nickName": "edisonlee55",
+        "hasGif": false,
+        "filePath": "screenshots/edisonlee55.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 683
+      },
+      {
+        "githubUrl": "https://github.com/PrincessAkira",
+        "nickName": "Yukii",
+        "hasGif": false,
+        "filePath": "screenshots/PrincessAkira.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1064
+      }
+    ]
+  },
+  {
+    "categoryName": "Minimalistic ✨",
+    "list": [
+      {
+        "githubUrl": "https://github.com/caneco",
+        "nickName": "Caneco",
+        "hasGif": false,
+        "filePath": "screenshots/caneco.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/lauragift21",
+        "nickName": "Gift Egwuenu",
+        "hasGif": false,
+        "filePath": "screenshots/lauragift21.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/PluckyPrecious",
+        "nickName": "Kelechi Precious Nwachukwu",
+        "hasGif": true,
+        "filePath": "screenshots/PluckyPrecious.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1029
+      },
+      {
+        "githubUrl": "https://github.com/gkhan205",
+        "nickName": "Ghazi Khan",
+        "hasGif": false,
+        "filePath": "screenshots/gkhan205.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 846
+      },
+      {
+        "githubUrl": "https://github.com/pr2tik1",
+        "nickName": "Pratik Kumar",
+        "hasGif": false,
+        "filePath": "screenshots/pr2tik1.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/DennisHartrampf",
+        "nickName": "Dennis Hartrampf",
+        "hasGif": false,
+        "filePath": "screenshots/DennisHartrampf.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 570
+      },
+      {
+        "githubUrl": "https://github.com/MrStanDu33",
+        "nickName": "MrStanDu33",
+        "hasGif": false,
+        "filePath": "screenshots/MrStanDu33.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/jayrajroshan",
+        "nickName": "Jayraj Roshan",
+        "hasGif": false,
+        "filePath": "screenshots/jayrajroshan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/amxchang",
+        "nickName": "amxchang",
+        "hasGif": false,
+        "filePath": "screenshots/amxchang.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/maximousblk",
+        "nickName": "Maximous Black",
+        "hasGif": false,
+        "filePath": "screenshots/maximousblk.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 905
+      },
+      {
+        "githubUrl": "https://github.com/AlexMartinFR",
+        "nickName": "Alex Martin",
+        "hasGif": false,
+        "filePath": "screenshots/AlexMartinFR.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/orhun",
+        "nickName": "Orhun",
+        "hasGif": false,
+        "filePath": "screenshots/orhun.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Ridermansb",
+        "nickName": "ridermansb",
+        "hasGif": false,
+        "filePath": "screenshots/Ridermansb.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 757
+      },
+      {
+        "githubUrl": "https://github.com/ChungZH",
+        "nickName": "ChungZH",
+        "hasGif": false,
+        "filePath": "screenshots/ChungZH.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Aveek-Saha",
+        "nickName": "Aveek Saha",
+        "hasGif": false,
+        "filePath": "screenshots/Aveek-Saha.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Zheeeng",
+        "nickName": "Zheeeng",
+        "hasGif": true,
+        "filePath": "screenshots/Zheeeng.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/federico-dondi",
+        "nickName": "Federico Dondi",
+        "hasGif": false,
+        "filePath": "screenshots/federico-dondi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 535
+      },
+      {
+        "githubUrl": "https://github.com/tallguyjenks",
+        "nickName": "TallGuyJenks",
+        "hasGif": false,
+        "filePath": "screenshots/tallguyjenks.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/moertel",
+        "nickName": "Stefanie Grunwald",
+        "hasGif": false,
+        "filePath": "screenshots/moertel.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/kha7iq",
+        "nickName": "Abdul Khaliq",
+        "hasGif": false,
+        "filePath": "screenshots/kha7iq.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      }
+    ]
+  },
+  {
+    "categoryName": "GIFS 👻",
+    "list": [
+      {
+        "githubUrl": "https://github.com/saadeghi",
+        "nickName": "Pouya Saadeghi",
+        "hasGif": false,
+        "filePath": "screenshots/saadeghi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/ari-hacks",
+        "nickName": "Ari",
+        "hasGif": false,
+        "filePath": "screenshots/ari-hacks.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Prince-Shivaram",
+        "nickName": "Siv Ram Shastri",
+        "hasGif": true,
+        "filePath": "screenshots/Prince-Shivaram.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 673
+      },
+      {
+        "githubUrl": "https://github.com/Shanu1515",
+        "nickName": "Shanu Mishra",
+        "hasGif": true,
+        "filePath": "screenshots/Shanu1515.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 807
+      },
+      {
+        "githubUrl": "https://github.com/imskr",
+        "nickName": "Shubham Kumar",
+        "hasGif": true,
+        "filePath": "screenshots/imskr.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/dephraiim",
+        "nickName": "Duncan",
+        "hasGif": false,
+        "filePath": "screenshots/dephraiim.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 561
+      },
+      {
+        "githubUrl": "https://github.com/demartini",
+        "nickName": "Demartini",
+        "hasGif": true,
+        "filePath": "screenshots/demartini.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/sindresorhus",
+        "nickName": "Sindre Sorhus",
+        "hasGif": true,
+        "filePath": "screenshots/sindresorhus.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Bhard27",
+        "nickName": "Pranjal Bhardwaj",
+        "hasGif": true,
+        "filePath": "screenshots/Bhard27.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 942
+      },
+      {
+        "githubUrl": "https://github.com/okankocyigit",
+        "nickName": "Okan Koçyiğit",
+        "hasGif": false,
+        "filePath": "screenshots/okankocyigit.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/RaghavK16",
+        "nickName": "Raghav Khullar",
+        "hasGif": true,
+        "filePath": "screenshots/RaghavK16.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1203
+      },
+      {
+        "githubUrl": "https://github.com/xrkffgg",
+        "nickName": "xrkffgg",
+        "hasGif": false,
+        "filePath": "screenshots/xrkffgg.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/KevCui",
+        "nickName": "Kevin Cui",
+        "hasGif": false,
+        "filePath": "screenshots/KevCui.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/muskanrani",
+        "nickName": "Muskan Rani",
+        "hasGif": true,
+        "filePath": "screenshots/muskanrani.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1018
+      },
+      {
+        "githubUrl": "https://github.com/KelviNosse",
+        "nickName": "KelviNosse",
+        "hasGif": true,
+        "filePath": "screenshots/KelviNosse.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 971
+      },
+      {
+        "githubUrl": "https://github.com/nilfalse",
+        "nickName": "nilfalse",
+        "hasGif": true,
+        "filePath": "screenshots/nilfalse.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/rishavanand",
+        "nickName": "Rishav Anand",
+        "hasGif": false,
+        "filePath": "screenshots/rishavanand.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 1053
+      },
+      {
+        "githubUrl": "https://github.com/ShahriarShafin",
+        "nickName": "Shahriar Shafin",
+        "hasGif": false,
+        "filePath": "screenshots/ShahriarShafin.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/SP-XD",
+        "nickName": "Somnath Paul",
+        "hasGif": true,
+        "filePath": "screenshots/SP-XD.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 968
+      },
+      {
+        "githubUrl": "https://github.com/kmoroz",
+        "nickName": "Ksenia Morozova",
+        "hasGif": true,
+        "filePath": "screenshots/kmoroz.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      }
+    ]
+  },
+  {
+    "categoryName": "Just Images 🎭",
+    "list": [
+      {
+        "githubUrl": "https://github.com/zackkrida",
+        "nickName": "Zack Krida",
+        "hasGif": false,
+        "filePath": "screenshots/zackkrida.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/afc163",
+        "nickName": "偏右",
+        "hasGif": false,
+        "filePath": "screenshots/afc163.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/thewhiteh4t",
+        "nickName": "thewhiteh4t",
+        "hasGif": false,
+        "filePath": "screenshots/thewhiteh4t.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/7ma7X",
+        "nickName": "Kaito Sugimoto",
+        "hasGif": false,
+        "filePath": "screenshots/7ma7X.jpeg",
+        "timestamp": 1598674235636,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/oussamabouchikhi",
+        "nickName": "Oussama Bouchikhi",
+        "hasGif": false,
+        "filePath": "screenshots/oussamabouchikhi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 978
+      },
+      {
+        "githubUrl": "https://github.com/dailyrandomphoto",
+        "nickName": "Daily Random Photo",
+        "hasGif": false,
+        "filePath": "screenshots/dailyrandomphoto.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/akasrai",
+        "nickName": "Akash Rai",
+        "hasGif": false,
+        "filePath": "screenshots/akasrai.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      }
+    ]
+  },
+  {
+    "categoryName": "Badges 🎫",
+    "list": [
+      {
+        "githubUrl": "https://github.com/aemmadi",
+        "nickName": "Anirudh Emmadi",
+        "hasGif": true,
+        "filePath": "screenshots/aemmadi.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/br3ndonland",
+        "nickName": "Brendon Smith",
+        "hasGif": false,
+        "filePath": "screenshots/br3ndonland.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/alwinw",
+        "nickName": "Alwin Wang",
+        "hasGif": false,
+        "filePath": "screenshots/alwinw.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/ileriayo",
+        "nickName": "Ileriayo Adebiyi",
+        "hasGif": true,
+        "filePath": "screenshots/ileriayo.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 795
+      },
+      {
+        "githubUrl": "https://github.com/samujjwaal",
+        "nickName": "Samujjwaal Dey",
+        "hasGif": false,
+        "filePath": "screenshots/samujjwaal.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/moshfiqrony",
+        "nickName": "Moshfiq Rony",
+        "hasGif": false,
+        "filePath": "screenshots/moshfiqrony.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 616
+      },
+      {
+        "githubUrl": "https://github.com/xtenzQ",
+        "nickName": "Nikita Rusetskii",
+        "hasGif": false,
+        "filePath": "screenshots/xtenzQ.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 611
+      },
+      {
+        "githubUrl": "https://github.com/Coordinate-Cat",
+        "nickName": "Oka",
+        "hasGif": false,
+        "filePath": "screenshots/Coordinate-Cat.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/char-al",
+        "nickName": "Char-Al",
+        "hasGif": false,
+        "filePath": "screenshots/char-al.jpeg",
+        "timestamp": 1633050091016,
+        "width": 800,
+        "height": 616
+      },
+      {
+        "githubUrl": "https://github.com/rafi0101",
+        "nickName": "Raphael Ebner",
+        "hasGif": false,
+        "filePath": "screenshots/rafi0101.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 781
+      }
+    ]
+  },
+  {
+    "categoryName": "Fancy Fonts 🖋",
+    "list": [
+      {
+        "githubUrl": "https://github.com/xiaoluoboding",
+        "nickName": "xiaoluoboding",
+        "hasGif": false,
+        "filePath": "screenshots/xiaoluoboding.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 558
+      }
+    ]
+  },
+  {
+    "categoryName": "Icons 🎯",
+    "list": [
+      {
+        "githubUrl": "https://github.com/terrytangyuan",
+        "nickName": "Yuan Tang",
+        "hasGif": false,
+        "filePath": "screenshots/terrytangyuan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/hussainweb",
+        "nickName": "Hussainweb",
+        "hasGif": false,
+        "filePath": "screenshots/hussainweb.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 532
+      },
+      {
+        "githubUrl": "https://github.com/peterthehan",
+        "nickName": "Peter Han",
+        "hasGif": false,
+        "filePath": "screenshots/peterthehan.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/Thomas-George-T",
+        "nickName": "Thomas George Thomas",
+        "hasGif": false,
+        "filePath": "screenshots/Thomas-George-T.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 822
+      },
+      {
+        "githubUrl": "https://github.com/dereknguyen269",
+        "nickName": "Derek Nguyen",
+        "hasGif": false,
+        "filePath": "screenshots/dereknguyen269.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 657
+      },
+      {
+        "githubUrl": "https://github.com/vbriand",
+        "nickName": "Valentin Briand",
+        "hasGif": false,
+        "filePath": "screenshots/vbriand.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 523
+      }
+    ]
+  },
+  {
+    "categoryName": "Retro 😎",
+    "list": [
+      {
+        "githubUrl": "https://github.com/BrunnerLivio",
+        "nickName": "Livio Brunner",
+        "hasGif": true,
+        "filePath": "screenshots/BrunnerLivio.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      },
+      {
+        "githubUrl": "https://github.com/fnky",
+        "nickName": "Christian Petersen",
+        "hasGif": true,
+        "filePath": "screenshots/fnky.jpeg",
+        "timestamp": 1634346140925,
+        "width": 800,
+        "height": 518
+      }
+    ]
+  }
+]
