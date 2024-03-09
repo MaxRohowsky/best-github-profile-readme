@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const filePath = path.join(__dirname, 'README.md');
+const filePath = path.join(__dirname, '..', 'README.md');
 const dataFilePath = path.join(__dirname, 'docs', 'data.json');
 
 fs.readFile(filePath, 'utf8', (err, data) => {
