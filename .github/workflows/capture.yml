@@ -38,12 +38,15 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
       - name: Screenshot Website
+        id: screenshot
         uses: swinton/screenshot-website@v1.x
         with:
           source: https://github.com/maxontech/maxontech
           destination: screenshot.png
           full-page: true
-      
+          
+      - name: Get screenshot path
+        run: echo "Screenshot path is ${{ steps.screenshot.outputs.path }}"
 
       - run: mv screenshot.png ${{ github.workspace }}
 
