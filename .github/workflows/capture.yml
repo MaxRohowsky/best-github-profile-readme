@@ -58,10 +58,9 @@ jobs:
       - name: Save screenshots
         uses: EndBug/add-and-commit@v4
         with:
-          message: "Save screenshots"
+          author_name: Bot
+          message: "Save screenshot"
           add: "*.png"
           
-
-
 
 
