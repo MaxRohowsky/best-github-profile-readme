@@ -43,11 +43,14 @@ jobs:
           source: https://github.com/maxontech/maxontech
           destination: screenshot.png
           full-page: true
+      
+
+      - run: mv screenshot.png ${{ github.workspace }}
 
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-          
+
       - name: Save screenshots
         uses: EndBug/add-and-commit@v4
         with:
