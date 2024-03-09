@@ -2,19 +2,11 @@
   {
     "githubUrl": "https://github.com/sw-yx",
     "nickName": "Shawn Wang",
-    "hasGif": true,
-    "filePath": "screenshots/sw-yx.jpeg",
-    "timestamp": 1634346140925,
-    "width": 800,
-    "height": 786
+    "filePath": "screenshots/sw-yx.jpeg"
   },
   {
     "githubUrl": "https://github.com/thmsgbrt",
     "nickName": "Thomas Guibert",
-    "hasGif": false,
-    "filePath": "screenshots/thmsgbrt.jpeg",
-    "timestamp": 1634346140925,
-    "width": 800,
-    "height": 909
+    "filePath": "screenshots/thmsgbrt.jpeg"
   }
 ]
