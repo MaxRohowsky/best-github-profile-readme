@@ -22,5 +22,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run hello-world.js
-        run: node -e "console.log('Hello, World!')"
+        run: node hello-world.js
     
