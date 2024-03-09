@@ -48,7 +48,6 @@ jobs:
       - name: Get screenshot path
         run: echo "Screenshot path is ${{ steps.screenshot.outputs.path }}"
 
-      - run: mv screenshot.png ${{ github.workspace }}
 
       - name: List files in the repository
         run: |
