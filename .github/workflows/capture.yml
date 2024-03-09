@@ -49,15 +49,11 @@ jobs:
         run: echo "Screenshot path is ${{ steps.screenshot.outputs.path }}"
       
       - name: Move screenshot to repository
-        run: mv ${{ steps.screenshot.outputs.path }} ${{ github.workspace }}/screenshots
+        run: mv ${{ steps.screenshot.outputs.path }} ${{ github.workspace }}
 
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}/screenshots
 
       - name: Save screenshots
         uses: EndBug/add-and-commit@v4
