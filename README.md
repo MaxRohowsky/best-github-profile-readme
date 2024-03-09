@@ -29,7 +29,7 @@ Made by [Max](maxontech.io)
 | Jonathan   | Gin         | [jonathangin52](https://github.com/jonathangin52)       | [README](https://github.com/jonathangin52/jonathangin52)       |
 | Kavish     | Hukmani     | [DoubleGremlin181](https://github.com/DoubleGremlin181) | [README](https://github.com/DoubleGremlin181/DoubleGremlin181) |
 | Lee        | Reilly      | [leereilly](https://github.com/leereilly)               | [README](https://github.com/leereilly/leereilly)               |
-| Max        | Rohowsky    | [maxontech](https://github.com/maxontech/maxontech)     | [README](https://github.com/maxontech/maxontech)               |
+| Max        | Rohowsky    | [maxontech](https://github.com/maxontech)               | [README](https://github.com/maxontech/maxontech)               |
 | Michael    | Hoffmann    | [mokkapps](https://github.com/mokkapps)                 | [README](https://github.com/mokkapps/mokkapps)                 |
 | Monica     | Powell      | [M0nica](https://github.com/M0nica)                     | [README](https://github.com/M0nica/M0nica)                     |
 | Nate       | Moore       | [natemoo-re](https://github.com/natemoo-re)             | [README](https://github.com/natemoo-re/natemoo-re)             |

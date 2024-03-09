@@ -21,6 +21,13 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: Run hello.js
-        run: node hello.js
+      - name: Run parse-readme.js
+        run: node parse-readme.js
+
+      - name: Commit and push if changed
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'github-actions@github.com'
+          message: 'Update data.js'
     
