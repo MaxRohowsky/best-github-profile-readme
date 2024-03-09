@@ -36,3 +36,6 @@ jobs:
           source: https://github.com/swinton/screenshot-website
           destination: screenshot.png
           full-page: true
+
+      - name: Move screenshot to repository
+        run: mv screenshot.png screenshots/
