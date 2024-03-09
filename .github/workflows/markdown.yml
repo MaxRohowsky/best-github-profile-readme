@@ -21,6 +21,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: Run hello-world.js
-        run: node hello-world.js
+      - name: Run hello.js
+        run: node hello.js
     
