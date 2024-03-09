@@ -22,18 +22,20 @@ jobs:
       - name: Screenshot Website
         uses: swinton/screenshot-website@v1.x
         with:
-          source: https://github.com/swinton/screenshot-website
+          source: https://github.com/maxontech/maxontech
           destination: screenshot.png
           full-page: true
       - name: Download all workflow run artifacts
         uses: actions/download-artifact@v4
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
-          git add .
-          git commit -m "Add generated data"
-          git push
+        with:
+          name: screenshot
+      - name: Save screenshots
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Bot
+          author_email: maxrohowsky@hotmail.com
+          message: "Save screenshots"
+          add: "*.jpeg"
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
