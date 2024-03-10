@@ -228,14 +228,15 @@ nav div {
     margin-right: 10px;
 }
 
+#githubRepo, #readme {
+    text-decoration: none;
+    align-items: center;
+    margin-right: 20px;
+    color: black;
+}
+
 #name{
     font-size: 15px;
     margin-right: 20px;
 }
 
-
-#githubRepo span, #readme span {
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
-    font-weight: normal;
-}
