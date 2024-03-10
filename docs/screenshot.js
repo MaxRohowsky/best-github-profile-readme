@@ -13,6 +13,8 @@ const path = require('path');
             continue;
         }
 
+        console.log(`Taking screenshot for ${profile.firstName} ${profile.lastName}...`);
+
         const page = await browser.newPage();
         await page.setViewport({ width: 1280, height: 720 });
         await page.goto(profile.githubProfile);
