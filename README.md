@@ -43,6 +43,7 @@ Made by [Max](maxontech.io)
 | Tushar     | Mittal      | [techytushar](https://github.com/techytushar)           | [README](https://github.com/techytushar/techytushar)           |
 | Yufan      | You         | [ouuan](https://github.com/ouuan)                       | [README](https://github.com/ouuan/ouuan)                       |
 | Zach       | Nguyen      | [cszach](https://github.com/cszach)                     | [README](https://github.com/cszach/cszach)                     |
+| Raghav     | Khullar     | [cszach](https://github.com/RaghavK16)                  | [README](https://github.com/Raghav16/Raghav16)                 |                   
 
 
 ## Readme Elements & Tools
