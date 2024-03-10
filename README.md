@@ -1,6 +1,8 @@
 
 # Best GitHub Profile READMEs
 
+![Preview](./preview.gif)
+
 Curated list of Beautiful and Unique GitHub Profile Readme files.
 
 Made by [Max](maxontech.io)
