@@ -27,6 +27,17 @@ nav div {
     float: right;
 }
 
+.socials {
+    transition: transform 0.1s ease-in-out;
+}
+
+.socials:hover {
+    transform: scale(1.2);
+}
+
+
+
+
 #hero {
     position: relative;
     height: 380px;
@@ -162,23 +173,20 @@ nav div {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-}
-
-#screenshotContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 
 
 .card {
     width: 400px;
-    height: 225px;
-    /* 16:9 ratio */
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    height: 300px;
+
     margin: 10px;
-    padding: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     position: relative;
@@ -187,33 +195,47 @@ nav div {
 .card img {
     width: 100%;
     height: auto;
+    border-radius: 5px;
     position: absolute;
     top: 0;
     transition: top 2s;
 }
 
+
 .card:hover img {
     top: -100%;
+
 }
 
 .card-info {
     position: absolute;
-    bottom: 0;
-    left: 0;
+    height: 50px;
     width: 100%;
+    bottom: 0;
     padding: 10px;
-    background: rgba(0, 0, 0, 0.5);
-    color: white;
-    backdrop-filter: blur(5px);
+    background: white;
     display: flex;
     align-items: center;
 }
 
-.card-info .profile-picture {
+.profile-picture {
     width: 50px;
     height: 50px;
     border-radius: 50%;
     background-repeat: no-repeat;
     background-size: 250px;
     background-position: -10px -26px;
+    margin-right: 10px;
+}
+
+#name{
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+
+#githubRepo span, #readme span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
 }
