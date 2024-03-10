@@ -23,7 +23,7 @@ Made by [Max](maxontech.io)
 ## Best Profiles READMEs
 
 | First Name | Last Name   | GitHub Profile                                          | GitHub Readme                                                  |
-|------------|-------------|---------------------------------------------------------|----------------------------------------------------------------|
+| ---------- | ----------- | ------------------------------------------------------- | -------------------------------------------------------------- |
 | Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             |
 | Abhishek   | Choudhary   | [theabbie](https://github.com/theabbie)                 | [README](https://github.com/theabbie/theabbie)                 |
 | Brian      | Douglas     | [bdougie](https://github.com/bdougie)                   | [README](https://github.com/bdougie/bdougie)                   |
@@ -49,7 +49,10 @@ Made by [Max](maxontech.io)
 | Tushar     | Mittal      | [techytushar](https://github.com/techytushar)           | [README](https://github.com/techytushar/techytushar)           |
 | Yufan      | You         | [ouuan](https://github.com/ouuan)                       | [README](https://github.com/ouuan/ouuan)                       |
 | Zach       | Nguyen      | [cszach](https://github.com/cszach)                     | [README](https://github.com/cszach/cszach)                     |
-| Raghav     | Khullar     | [cszach](https://github.com/RaghavK16)                  | [README](https://github.com/Raghav16/Raghav16)                 |                   
+| Raghav     | Khullar     | [RaghavK16](https://github.com/RaghavK16)               | [README](https://github.com/Raghav16/Raghav16)                 |
+| Ari        | Hacks       | [ari-hacks](https://github.com/ari-hacks)               | [README](https://github.com/ari-hacks/ari-hacks)               |
+| Ileriayo   | Adebiyi     | [Ileriayo](https://github.com/Ileriayo)                 | [README](https://github.com/Ileriayo/Ileriayo)                 |
+| Robert     | Shaw        | [xiaoluoboding](https://github.com/xiaoluoboding)       | [README](https://github.com/xiaoluoboding/xiaoluoboding)       |
 
 
 ## Readme Elements & Tools
