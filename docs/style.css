@@ -133,17 +133,7 @@ nav div {
 }
 
 
-#social-proof {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    text-align: center;
-    background: rgba(91, 178, 255, 0.8);
-    padding-bottom: 50px;
-    font-weight: 300;
-    color: rgb(255, 255, 255);
-}
+
 
 .proof-icon {
     display: flex;
