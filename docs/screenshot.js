@@ -18,6 +18,7 @@ const path = require('path');
         const page = await browser.newPage();
         await page.setViewport({ width: 1280, height: 720 });
         await page.goto(profile.githubProfile);
+        await new Promise(resolve => setTimeout(resolve, 2000));
         await page.screenshot({ path: screenshotPath, fullPage: true });
         await page.close();
     }
