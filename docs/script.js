@@ -18,3 +18,11 @@ $.getJSON('./data.json', function(data) {
 }).fail(function(jqxhr, textStatus, error) {
     console.error('Error:', error);
 });
+
+
+fetch('https://api.github.com/repos/maxontech/best-github-profile-readme')
+    .then(response => response.json())
+    .then(data => {
+        document.getElementById('forks').textContent = data.forks_count;
+        document.getElementById('stars').textContent = data.stargazers_count;
+    });

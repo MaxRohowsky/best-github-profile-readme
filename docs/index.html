@@ -1,21 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <nav>
-        <img class="navbar-image" src="path/to/image.jpg" alt="Placeholder">
-      </nav>
-      <section id="hero">
-        Hello World
-      </section>
-    <div id="screenshotContainer"></div>
+        <div class="nav-left">
+            <i class="fab fa-github" style="font-size: 1.5em; color: #171515;">
+                <span style="font-family: 'Roboto', sans-serif;"> GitPro </span>
+            </i>
+            </i>
+        </div>
+        <div class="nav-center">
+            <a href="https://github.com/maxontech/best-github-profile-readme/fork" target="_blank">
+                <i class="fas fa-code-branch" style="font-size: 1.5em; color: #000;"></i>
+                <span id="forks">...</span>
+            </a>
+            <a href="https://github.com/maxontech/best-github-profile-readme/stargazers" target="_blank">
+                <i class="fas fa-star" style="font-size: 1.5em; color: #f1c40f;"></i>
+                <span id="stars">...</span>
+            </a>
+        </div>
+        <div class="nav-right">
+            <i class="fab fa-discord" style="font-size: 1.5em; color: #7289da; margin: 0 10px;"></i>
+            <i class="fab fa-youtube" style="font-size: 1.5em; color: #FF0000; margin: 0 10px;"></i>
+            <i class="fab fa-twitter" style="font-size: 1.5em; color: #1DA1F2; margin: 0 10px;"></i>
+        </div>
+    </nav>
+    <section id="hero">
+        <div id="hero-container">
+            <p class="small-text">The (soon to be) #1 Open Source Repo for GitHub Inspiration</p>
+            <h1>Unique GitHub Profile Designs</h1>
+            <h2>Curated list of GitHub's best Profiles <br /> and Readme.md Files</h2>
+        </div>
+        <img id="background-image" src="screenshots/maxontech.jpeg" alt="Background Image">
 
+    </section>
+
+    <section id="instructions">
+        <div id="instruction-steps">
+            <div class="step">
+                <i class="step-icon fas fa-code-branch"></i>
+                <span><strong>Step 1:</strong> Fork and Star <br/> this Repository</span>
+            </div>
+            <div class="step">
+                <i class="step-icon fas fa-edit"></i>
+                <span><strong>Step 2:</strong> Clone and Make Changes <br/> on new Branch</span>
+            </div>
+            <div class="step">
+                <i class="step-icon fas fa-upload"></i>
+                <span><strong>Step 3:</strong> Push Changes & Create <br/> a Pull Request</span>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <div id="screenshotContainer"></div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="script.js"></script>
 </body>
+
 </html>
