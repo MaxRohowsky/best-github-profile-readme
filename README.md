@@ -4,15 +4,19 @@
 ![Preview](./preview.gif)
 
 Curated list of Beautiful and Unique GitHub Profile Readme files.
+View all profiles here: [link](https://maxontech.github.io/best-github-profile-readme/)
+
 
 Made by [Max](maxontech.io)
 
 ## Table of Contents
 
-1. [Best Profiles READMEs](#best-profiles-readmes)
-2. [Readme Elements & Tools](#readme-elements--tools)
-3. [Contribute to this Repo](#contribute-to-this-repo)
-4. [License](#license)
+- [Best GitHub Profile READMEs](#best-github-profile-readmes)
+  - [Table of Contents](#table-of-contents)
+  - [Best Profiles READMEs](#best-profiles-readmes)
+  - [Readme Elements \& Tools](#readme-elements--tools)
+  - [Contribute to the List](#contribute-to-the-list)
+  - [License](#license)
 
 
 
@@ -55,7 +59,7 @@ TODO
 
 ## Contribute to the List
 
-
+TODO
 
 
 ## License
