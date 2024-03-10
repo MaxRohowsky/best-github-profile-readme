@@ -82,8 +82,8 @@ nav div {
     position: relative;
     width: 100%;
     height: 80px;
-    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
-    background: rgba(187, 187, 187, 0.8);
+
+    background: rgba(91, 178, 255, 0.8);
 }
 
 #instruction-steps {
@@ -97,6 +97,7 @@ nav div {
     height: 100%;
     border-radius: 10px;
     background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 #instruction-steps::before {
@@ -132,7 +133,30 @@ nav div {
 }
 
 
+#social-proof {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    background: rgba(91, 178, 255, 0.8);
+    padding-bottom: 50px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
 
+.proof-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px; /* Adjust as needed */
+    height: 20px; /* Adjust as needed */
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 #screenshotContainer {
     display: flex;
