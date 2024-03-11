@@ -77,7 +77,7 @@ TODO: This section will have popular elements and tools to add to your profile.
 
 We encourage you to contribute to "Best GitHub Profile READMEs"!
 
-Please check out the Contributing to Ruby on Rails guide for guidelines about how to proceed.
+Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines about how to proceed.
 
 Let's make this the most popular source for GitHub Profile Inspiration!
 
