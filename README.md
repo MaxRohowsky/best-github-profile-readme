@@ -66,6 +66,11 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 | Ari        | Hacks       | [ari-hacks](https://github.com/ari-hacks)               | [README](https://github.com/ari-hacks/ari-hacks)               |
 | Ileriayo   | Adebiyi     | [Ileriayo](https://github.com/Ileriayo)                 | [README](https://github.com/Ileriayo/Ileriayo)                 |
 | Robert     | Shaw        | [xiaoluoboding](https://github.com/xiaoluoboding)       | [README](https://github.com/xiaoluoboding/xiaoluoboding)       |
+| Ritik      | Rawal       | [ritik307](https://github.com/ritik307)                 | [README](https://github.com/ritik307/ritik307)                 |
+| Muhammedh  | Shadir      | [muhammedh-shadir](https://github.com/muhammedh-shadir) | [README](https://github.com/muhammedh-shadir/muhammedh-shadir) |
+| Thaiane    | Braga       | [thaiane](https://github.com/thaiane)                   | [README](https://github.com/thaiane/thaiane)                   |
+| Gaurav     | Pandey      | [codewithgauri](https://github.com/codewithgauri)       | [README](https://github.com/codewithgauri/codewithgauri)       |
+| Lakshmanan | Meiyappan   | [laxmena](https://github.com/laxmena)                   | [README](https://github.com/laxmena/laxmena)                   |
 
 
 ## Readme Elements and Tools
