@@ -31,46 +31,49 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 - [Contribute](#contribute)
 - [License](#license)
 
+ 
+    
+    
 
 
 ## Best Profiles READMEs
 
-| First Name | Last Name   | GitHub Profile                                          | GitHub Readme                                                  |
-| ---------- | ----------- | ------------------------------------------------------- | -------------------------------------------------------------- |
-| Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             |
-| Abhishek   | Choudhary   | [theabbie](https://github.com/theabbie)                 | [README](https://github.com/theabbie/theabbie)                 |
-| Brian      | Douglas     | [bdougie](https://github.com/bdougie)                   | [README](https://github.com/bdougie/bdougie)                   |
-| Danny      | Koppenhagen | [d-koppenhagen](https://github.com/d-koppenhagen)       | [README](https://github.com/d-koppenhagen/d-koppenhagen)       |
-| Edward     | Thomson     | [ethomson](https://github.com/ethomson)                 | [README](https://github.com/ethomson/ethomson)                 |
-| Erwin      | Lejeune     | [guilyx](https://github.com/guilyx)                     | [README](https://github.com/guilyx/guilyx)                     |
-| Garima     | Singh       | [garimasingh128](https://github.com/garimasingh128)     | [README](https://github.com/garimasingh128/garimasingh128)     |
-| Jacob      | Colvin      | [MacroPower](https://github.com/MacroPower)             | [README](https://github.com/MacroPower/MacroPower)             |
-| Jonathan   | Gin         | [jonathangin52](https://github.com/jonathangin52)       | [README](https://github.com/jonathangin52/jonathangin52)       |
-| Kavish     | Hukmani     | [DoubleGremlin181](https://github.com/DoubleGremlin181) | [README](https://github.com/DoubleGremlin181/DoubleGremlin181) |
-| Lee        | Reilly      | [leereilly](https://github.com/leereilly)               | [README](https://github.com/leereilly/leereilly)               |
-| Max        | Rohowsky    | [maxontech](https://github.com/maxontech)               | [README](https://github.com/maxontech/maxontech)               |
-| Michael    | Hoffmann    | [mokkapps](https://github.com/mokkapps)                 | [README](https://github.com/mokkapps/mokkapps)                 |
-| Monica     | Powell      | [M0nica](https://github.com/M0nica)                     | [README](https://github.com/M0nica/M0nica)                     |
-| Nate       | Moore       | [natemoo-re](https://github.com/natemoo-re)             | [README](https://github.com/natemoo-re/natemoo-re)             |
-| Osman      | Durdağ      | [zumrudu-anka](https://github.com/zumrudu-anka)         | [README](https://github.com/zumrudu-anka/zumrudu-anka)         |
-| Rahul      | Jha         | [rahul-jha98](https://github.com/rahul-jha98)           | [README](https://github.com/rahul-jha98/rahul-jha98)           |
-| Raymond    | Li          | [Raymo111](https://github.com/Raymo111)                 | [README](https://github.com/Raymo111/Raymo111)                 |
-| Ross       | Williams    | [rossjrw](https://github.com/rossjrw)                   | [README](https://github.com/rossjrw/rossjrw)                   |
-| Sagar      | Viradiya    | [sagar-viradiya](https://github.com/sagar-viradiya)     | [README](https://github.com/sagar-viradiya/sagar-viradiya)     |
-| Taehyun    | Hwang       | [HwangTaehyun](https://github.com/HwangTaehyun)         | [README](https://github.com/HwangTaehyun/HwangTaehyun)         |
-| Tim        | Burgan      | [timburgan](https://github.com/timburgan)               | [README](https://github.com/timburgan/timburgan)               |
-| Tushar     | Mittal      | [techytushar](https://github.com/techytushar)           | [README](https://github.com/techytushar/techytushar)           |
-| Yufan      | You         | [ouuan](https://github.com/ouuan)                       | [README](https://github.com/ouuan/ouuan)                       |
-| Zach       | Nguyen      | [cszach](https://github.com/cszach)                     | [README](https://github.com/cszach/cszach)                     |
-| Raghav     | Khullar     | [RaghavK16](https://github.com/RaghavK16)               | [README](https://github.com/Raghav16/Raghav16)                 |
-| Ari        | Hacks       | [ari-hacks](https://github.com/ari-hacks)               | [README](https://github.com/ari-hacks/ari-hacks)               |
-| Ileriayo   | Adebiyi     | [Ileriayo](https://github.com/Ileriayo)                 | [README](https://github.com/Ileriayo/Ileriayo)                 |
-| Robert     | Shaw        | [xiaoluoboding](https://github.com/xiaoluoboding)       | [README](https://github.com/xiaoluoboding/xiaoluoboding)       |
-| Ritik      | Rawal       | [ritik307](https://github.com/ritik307)                 | [README](https://github.com/ritik307/ritik307)                 |
-| Muhammedh  | Shadir      | [muhammedh-shadir](https://github.com/muhammedh-shadir) | [README](https://github.com/muhammedh-shadir/muhammedh-shadir) |
-| Thaiane    | Braga       | [thaiane](https://github.com/thaiane)                   | [README](https://github.com/thaiane/thaiane)                   |
-| Gaurav     | Pandey      | [codewithgauri](https://github.com/codewithgauri)       | [README](https://github.com/codewithgauri/codewithgauri)       |
-| Lakshmanan | Meiyappan   | [laxmena](https://github.com/laxmena)                   | [README](https://github.com/laxmena/laxmena)                   |
+| First Name | Last Name   | GitHub Profile                                          | GitHub Readme                                                  |   Preview     |
+| ---------- | ----------- | ------------------------------------------------------- | -------------------------------------------------------------- | -----|
+| Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/adamalston.jpeg"> </details> |
+| Abhishek   | Choudhary   | [theabbie](https://github.com/theabbie)                 | [README](https://github.com/theabbie/theabbie)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/theabbie.jpeg"> </details> |
+| Brian      | Douglas     | [bdougie](https://github.com/bdougie)                   | [README](https://github.com/bdougie/bdougie)                   |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/bdougie.jpeg"> </details> |
+| Danny      | Koppenhagen | [d-koppenhagen](https://github.com/d-koppenhagen)       | [README](https://github.com/d-koppenhagen/d-koppenhagen)       |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/d-koppenhagen.jpeg"> </details> |
+| Edward     | Thomson     | [ethomson](https://github.com/ethomson)                 | [README](https://github.com/ethomson/ethomson)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/ethomson.jpeg"> </details> |
+| Erwin      | Lejeune     | [guilyx](https://github.com/guilyx)                     | [README](https://github.com/guilyx/guilyx)                     |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/guilyx.jpeg"> </details> |
+| Garima     | Singh       | [garimasingh128](https://github.com/garimasingh128)     | [README](https://github.com/garimasingh128/garimasingh128)     |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/garimasingh128.jpeg"> </details> |
+| Jacob      | Colvin      | [MacroPower](https://github.com/MacroPower)             | [README](https://github.com/MacroPower/MacroPower)             |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/MacroPower.jpeg"> </details> |
+| Jonathan   | Gin         | [jonathangin52](https://github.com/jonathangin52)       | [README](https://github.com/jonathangin52/jonathangin52)       |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/jonathangin52.jpeg"> </details> |
+| Kavish     | Hukmani     | [DoubleGremlin181](https://github.com/DoubleGremlin181) | [README](https://github.com/DoubleGremlin181/DoubleGremlin181) |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/DoubleGremlin181.jpeg"> </details> |
+| Lee        | Reilly      | [leereilly](https://github.com/leereilly)               | [README](https://github.com/leereilly/leereilly)               |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/leereilly.jpeg"> </details> |
+| Max        | Rohowsky    | [maxontech](https://github.com/maxontech)               | [README](https://github.com/maxontech/maxontech)               |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/maxontech.jpeg"> </details> |
+| Michael    | Hoffmann    | [mokkapps](https://github.com/mokkapps)                 | [README](https://github.com/mokkapps/mokkapps)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/mokkapps.jpeg"> </details> |
+| Monica     | Powell      | [M0nica](https://github.com/M0nica)                     | [README](https://github.com/M0nica/M0nica)                     |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/M0nica.jpeg"> </details> |
+| Nate       | Moore       | [natemoo-re](https://github.com/natemoo-re)             | [README](https://github.com/natemoo-re/natemoo-re)             |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/natemoo-re.jpeg"> </details> |
+| Osman      | Durdağ      | [zumrudu-anka](https://github.com/zumrudu-anka)         | [README](https://github.com/zumrudu-anka/zumrudu-anka)         |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/zumrudu-anka.jpeg"> </details> |
+| Rahul      | Jha         | [rahul-jha98](https://github.com/rahul-jha98)           | [README](https://github.com/rahul-jha98/rahul-jha98)           |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/rahul-jha98.jpeg"> </details> |
+| Raymond    | Li          | [Raymo111](https://github.com/Raymo111)                 | [README](https://github.com/Raymo111/Raymo111)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/Raymo111.jpeg"> </details> |
+| Ross       | Williams    | [rossjrw](https://github.com/rossjrw)                   | [README](https://github.com/rossjrw/rossjrw)                   |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/rossjrw.jpeg"> </details> |
+| Sagar      | Viradiya    | [sagar-viradiya](https://github.com/sagar-viradiya)     | [README](https://github.com/sagar-viradiya/sagar-viradiya)     |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/sagar-viradiya.jpeg"> </details> |
+| Taehyun    | Hwang       | [HwangTaehyun](https://github.com/HwangTaehyun)         | [README](https://github.com/HwangTaehyun/HwangTaehyun)         |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/HwangTaehyun.jpeg"> </details> |
+| Tim        | Burgan      | [timburgan](https://github.com/timburgan)               | [README](https://github.com/timburgan/timburgan)               |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/timburgan.jpeg"> </details> |
+| Tushar     | Mittal      | [techytushar](https://github.com/techytushar)           | [README](https://github.com/techytushar/techytushar)           |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/techytushar.jpeg"> </details> |
+| Yufan      | You         | [ouuan](https://github.com/ouuan)                       | [README](https://github.com/ouuan/ouuan)                       |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/ouuan.jpeg"> </details> |
+| Zach       | Nguyen      | [cszach](https://github.com/cszach)                     | [README](https://github.com/cszach/cszach)                     |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/cszach.jpeg"> </details> |
+| Raghav     | Khullar     | [RaghavK16](https://github.com/RaghavK16)               | [README](https://github.com/Raghav16/Raghav16)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/Raghav16.jpeg"> </details> |
+| Ari        | Hacks       | [ari-hacks](https://github.com/ari-hacks)               | [README](https://github.com/ari-hacks/ari-hacks)               |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/ari-hacks.jpeg"> </details> |
+| Ileriayo   | Adebiyi     | [Ileriayo](https://github.com/Ileriayo)                 | [README](https://github.com/Ileriayo/Ileriayo)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/Ileriayo.jpeg"> </details> |
+| Robert     | Shaw        | [xiaoluoboding](https://github.com/xiaoluoboding)       | [README](https://github.com/xiaoluoboding/xiaoluoboding)       |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/xiaoluoboding.jpeg"> </details> |
+| Ritik      | Rawal       | [ritik307](https://github.com/ritik307)                 | [README](https://github.com/ritik307/ritik307)                 |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/ritik307.jpeg"> </details> |
+| Muhammedh  | Shadir      | [muhammedh-shadir](https://github.com/muhammedh-shadir) | [README](https://github.com/muhammedh-shadir/muhammedh-shadir) |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/muhammedh-shadir.jpeg"> </details> |
+| Thaiane    | Braga       | [thaiane](https://github.com/thaiane)                   | [README](https://github.com/thaiane/thaiane)                   |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/thaiane.jpeg"> </details> |
+| Gaurav     | Pandey      | [codewithgauri](https://github.com/codewithgauri)       | [README](https://github.com/codewithgauri/codewithgauri)       |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/codewithgauri.jpeg"> </details> |
+| Lakshmanan | Meiyappan   | [laxmena](https://github.com/laxmena)                   | [README](https://github.com/laxmena/laxmena)                   |  <details> <summary>Preview</summary><img loading="lazy" src="docs/Screenshots/laxmena.jpeg"> </details> |
 
 
 ## Readme Elements and Tools
