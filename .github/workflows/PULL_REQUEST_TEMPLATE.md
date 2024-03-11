@@ -2,7 +2,7 @@
 
  Support the Project by giving it a ![GitHub stars](https://img.shields.io/github/stars/maxontech/best-github-profile-readme.svg?style=social&label=Star) to give it visibility.
 
- Your Pull Request must comply with the [contributing guidelines](CONTRIBUTING.md)!
+ Your Pull Request must comply with the [contributing guidelines](../../CONTRIBUTING.md)!
 
 ## Pull Request Details
 
