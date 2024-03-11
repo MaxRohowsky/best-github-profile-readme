@@ -265,6 +265,11 @@ nav div {
 
 
 @media (max-width: 500px) {
+    nav div {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
     #background-image {
         position: absolute;
         transform: rotate(-15deg);
