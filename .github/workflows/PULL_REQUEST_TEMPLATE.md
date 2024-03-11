@@ -15,7 +15,7 @@ Please checkmark the applicable fields:
 
 ## Description
 
-Here you can describe what you have done.
+Here you can describe your changes.
 
 ## Community
 Are you passionate about Open Source, Entrepreneurship, and Code?
