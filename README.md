@@ -40,7 +40,7 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 
 | First Name | Last Name   | GitHub Profile                                          | GitHub Readme                                                  |   Preview     |
 | ---------- | ----------- | ------------------------------------------------------- | -------------------------------------------------------------- | -----|
-| Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             | <details> <summary>Preview</summary>![Preview Image](docs/Screenshots/adamalston.jpeg) </details> |
+| Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             | <details> <summary>Preview</summary>![Preview Image](/docs/Screenshots/adamalston.jpeg) </details> |
 | Abhishek   | Choudhary   | [theabbie](https://github.com/theabbie)                 | [README](https://github.com/theabbie/theabbie)                 | <details> <summary>Preview</summary>![Preview Image](docs/Screenshots/theabbie.jpeg) </details> |
 | Brian      | Douglas     | [bdougie](https://github.com/bdougie)                   | [README](https://github.com/bdougie/bdougie)                   | <details> <summary>Preview</summary>![Preview Image](docs/Screenshots/bdougie.jpeg) </details> |
 | Danny      | Koppenhagen | [d-koppenhagen](https://github.com/d-koppenhagen)       | [README](https://github.com/d-koppenhagen/d-koppenhagen)       | <details> <summary>Preview</summary>![Preview Image](docs/Screenshots/d-koppenhagen.jpeg) </details> |
