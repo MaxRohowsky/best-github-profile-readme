@@ -11,23 +11,25 @@
 
 I encourage everyone to contribute to this project by **adding profiles** or **fixing bugs**. To learn more about how to contribute  [click here](#contribute-to-the-list).
 
-**Support this Project:**
+**Support:**
 <br>
-Starring 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/best-github-profile-readme.svg?style=social&label=Star)
+Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/best-github-profile-readme.svg?style=social&label=Star)
 <br>
-Following 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
 <br>
 
+**Fun fact:** 
+<br>
+The [website](https://maxontech.github.io/best-github-profile-readme/) is fully automized. Profiles that are added to the [markdown list below](#best-profiles-readmes) via approved Pull Requests are automatically added to the [website](https://maxontech.github.io/best-github-profile-readme/) using GitHub actions.
 
 ## Table of Contents
 
-- [Best GitHub Profile READMEs](#best-github-profile-readmes)
-  - [What is this Project?](#what-is-this-project)
-  - [Table of Contents](#table-of-contents)
-  - [Best Profiles READMEs](#best-profiles-readmes)
-  - [Readme Elements \& Tools](#readme-elements--tools)
-  - [Contribute to the List](#contribute-to-the-list)
-  - [License](#license)
+- [What is this Project?](#what-is-this-project)
+- [Table of Contents](#table-of-contents)
+- [Best Profiles READMEs](#best-profiles-readmes)
+- [Readme Elements and Tools](#readme-elements--tools)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 
@@ -66,12 +68,12 @@ Following 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/foll
 | Robert     | Shaw        | [xiaoluoboding](https://github.com/xiaoluoboding)       | [README](https://github.com/xiaoluoboding/xiaoluoboding)       |
 
 
-## Readme Elements & Tools
+## Readme Elements and Tools
 
 TODO: This section will have popular elements and tools to add to your profile. 
 
 
-## Contribute to the List
+## Contribute
 
 We encourage you to contribute to "Best GitHub Profile READMEs"!
 
