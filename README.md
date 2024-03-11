@@ -77,8 +77,10 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 | Karim      | Abdallah    | [karim-eg](https://github.com/karim-eg)                 | [README](https://github.com/karim-eg/karim-eg)                 | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/karim-eg.jpeg) </details>         |
 | Livio      | Brunner    | [BrunnerLivio](https://github.com/BrunnerLivio)          | [README](https://github.com/BrunnerLivio/BrunnerLivio)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/BrunnerLivio.jpeg) </details>     |
 | Code      | Bullet    | [Code-Bullet](https://github.com/Code-Bullet)          | [README](https://github.com/Code-Bullet/Code-Bullet)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/Code-Bullet.jpeg) </details>     |
-| Emil       | Widlund    | [Code-Bullet](https://github.com/emilwidlund)          | [README](https://github.com/emilwidlund/emilwidlund)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/emilwidlund.jpeg) </details>     |
+| Emil       | Widlund    | [emilwidlund](https://github.com/emilwidlund)          | [README](https://github.com/emilwidlund/emilwidlund)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/emilwidlund.jpeg) </details>     |
+| Terkel       | Gjervig    | [terkelg](https://github.com/terkelg)          | [README](https://github.com/terkelg/terkelg)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/terkelg.jpeg) </details>     |
 
+https://github.com/terkelg
 
 
 ## Readme Elements and Tools
