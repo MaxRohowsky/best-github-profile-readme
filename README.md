@@ -3,15 +3,26 @@
 
 ![Preview](./preview.gif)
 
-Curated list of Beautiful and Unique GitHub Profile Readme files.
-View all profiles here: [link](https://maxontech.github.io/best-github-profile-readme/)
+## What is this Project?
 
+**"Best GitHub Profile READMEs"** is a curated list of **Beautiful** and **Unique** GitHub Profile **Readme** files.
 
-Made by [Max](maxontech.io)
+[This website](https://maxontech.github.io/best-github-profile-readme/) showcases all the Profiles. Under each profile you'll see a link to the persons GitHub account and Readme file.
+
+I encourage everyone to contribute to this project by **adding profiles** or **fixing bugs**. To learn more about how to contribute  [click here](#contribute-to-the-list).
+
+**Support this Project:**
+<br>
+Starring 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/best-github-profile-readme.svg?style=social&label=Star)
+<br>
+Following 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+<br>
+
 
 ## Table of Contents
 
 - [Best GitHub Profile READMEs](#best-github-profile-readmes)
+  - [What is this Project?](#what-is-this-project)
   - [Table of Contents](#table-of-contents)
   - [Best Profiles READMEs](#best-profiles-readmes)
   - [Readme Elements \& Tools](#readme-elements--tools)
@@ -57,12 +68,16 @@ Made by [Max](maxontech.io)
 
 ## Readme Elements & Tools
 
-TODO
+TODO: This section will have popular elements and tools to add to your profile. 
 
 
 ## Contribute to the List
 
-TODO
+We encourage you to contribute to "Best GitHub Profile READMEs"!
+
+Please check out the Contributing to Ruby on Rails guide for guidelines about how to proceed.
+
+Let's make this the most popular source for GitHub Profile Inspiration!
 
 
 ## License
