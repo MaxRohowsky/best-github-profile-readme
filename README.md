@@ -82,11 +82,6 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 
 
 
-## Readme Elements and Tools
-
-TODO: This section will have popular elements and tools to add to your profile. 
-
-
 ## Contribute
 
 We encourage you to contribute to "Best GitHub Profile READMEs"!
