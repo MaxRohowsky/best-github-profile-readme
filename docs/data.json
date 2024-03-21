@@ -302,5 +302,29 @@
     "githubProfile": "https://github.com/terkelg",
     "githubReadme": "https://github.com/terkelg/terkelg",
     "screenshotPath": "screenshots/terkelg.jpeg"
+  },
+  {
+    "timestamp": "2024-03-21T22:08:19.889Z",
+    "firstName": "Avinal",
+    "lastName": "Kumar",
+    "githubProfile": "https://github.com/avinal",
+    "githubReadme": "https://github.com/avinal/avinal",
+    "screenshotPath": "screenshots/avinal.jpeg"
+  },
+  {
+    "timestamp": "2024-03-21T22:08:19.889Z",
+    "firstName": "Suman",
+    "lastName": "Shekhar",
+    "githubProfile": "https://github.com/sumanshekhar698",
+    "githubReadme": "https://github.com/sumanshekhar698/sumanshekhar698",
+    "screenshotPath": "screenshots/sumanshekhar698.jpeg"
+  },
+  {
+    "timestamp": "2024-03-21T22:08:19.889Z",
+    "firstName": "Syed",
+    "lastName": "Ibrahim",
+    "githubProfile": "https://github.com/syedibrahim",
+    "githubReadme": "https://github.com/syedibrahim/syedibrahim",
+    "screenshotPath": "screenshots/syedibrahim.jpeg"
   }
 ]
