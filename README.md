@@ -24,12 +24,12 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 
 ## Table of Contents
 
-- [What is this Project?](#what-is-this-project)
-- [Table of Contents](#table-of-contents)
-- [Best Profiles READMEs](#best-profiles-readmes)
-- [Readme Elements and Tools](#readme-elements--tools)
-- [Contribute](#contribute)
-- [License](#license)
+- [Best GitHub Profile READMEs](#best-github-profile-readmes)
+  - [What is this Project?](#what-is-this-project)
+  - [Table of Contents](#table-of-contents)
+  - [Best Profiles READMEs](#best-profiles-readmes)
+  - [Contribute](#contribute)
+  - [License](#license)
 
  
     
@@ -79,6 +79,11 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 | Code       | Bullet      | [Code-Bullet](https://github.com/Code-Bullet)           | [README](https://github.com/Code-Bullet/Code-Bullet)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/Code-Bullet.jpeg) </details>      |
 | Emil       | Widlund     | [emilwidlund](https://github.com/emilwidlund)           | [README](https://github.com/emilwidlund/emilwidlund)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/emilwidlund.jpeg) </details>      |
 | Terkel     | Gjervig     | [terkelg](https://github.com/terkelg)                   | [README](https://github.com/terkelg/terkelg)                   | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/terkelg.jpeg) </details>          |
+| Avinal     | Kumar       | [avinal](https://github.com/avinal)                     | [README](https://github.com/avinal/avinal)                     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/avinal.jpeg) </details>           |
+| Suman      | Shekhar     | [sumanshekhar698](https://github.com/sumanshekhar698)   | [README](https://github.com/sumanshekhar698/sumanshekhar698)   | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sumanshekhar698.jpeg) </details>  |
+| Syed       | Ibrahim     | [syedibrahim](https://github.com/syedibrahim)           | [README](https://github.com/syedibrahim/syedibrahim)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/syedibrahim.jpeg) </details>      |
+
+
 
 
 
