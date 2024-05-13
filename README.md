@@ -82,7 +82,7 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 | Avinal     | Kumar       | [avinal](https://github.com/avinal)                     | [README](https://github.com/avinal/avinal)                     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/avinal.jpeg) </details>           |
 | Suman      | Shekhar     | [sumanshekhar698](https://github.com/sumanshekhar698)   | [README](https://github.com/sumanshekhar698/sumanshekhar698)   | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sumanshekhar698.jpeg) </details>  |
 | Syed       | Ibrahim     | [syedibrahim](https://github.com/syedibrahim)           | [README](https://github.com/syedibrahim/syedibrahim)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/syedibrahim.jpeg) </details>      |
-| Siby      | Lassana     | [sibylassana95](https://github.com/sibylassana95)           | [README](https://github.com/sibylassana95/sibylassana95)           | 
+| Siby       | Lassana     | [sibylassana95](https://github.com/sibylassana95)       | [README](https://github.com/sibylassana95/sibylassana95)       | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sibylassana95.jpeg) </details>    |
 
 
 
