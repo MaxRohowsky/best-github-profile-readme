@@ -90,7 +90,9 @@ The [website](https://maxontech.github.io/best-github-profile-readme/) is fully 
 
 We encourage you to contribute to "Best GitHub Profile READMEs"!
 
-Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines about how to proceed.
+Instructions on how to make a submission: [How to Submit a Profile](instructions.md)
+
+Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines concerning what contributions are merged.
 
 Let's make this the most popular source for GitHub Profile Inspiration!
 
