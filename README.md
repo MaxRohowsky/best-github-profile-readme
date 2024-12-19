@@ -7,20 +7,20 @@
 
 **"Best GitHub Profile READMEs"** is a curated list of **Beautiful** and **Unique** GitHub Profile **Readme** files.
 
-[This website](https://maxontech.github.io/best-github-profile-readme/) showcases all the Profiles. Under each profile you'll see a link to the persons GitHub account and Readme file.
+[This website](https://maxrohowsky.github.io/best-github-profile-readme/) showcases all the Profiles. Under each profile you'll see a link to the persons GitHub account and Readme file.
 
 I encourage everyone to contribute to this project by **adding profiles** or **fixing bugs**. To learn more about how to contribute  [click here](#contribute-to-the-list).
 
 **Support:**
 <br>
-Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/best-github-profile-readme.svg?style=social&label=Star)
+Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxrohowsky/best-github-profile-readme.svg?style=social&label=Star)
 <br>
-Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxrohowsky.svg?style=social&label=Follow)
 <br>
 
 **Fun fact:** 
 <br>
-The [website](https://maxontech.github.io/best-github-profile-readme/) is fully automized. Profiles that are added to the [markdown list below](#best-profiles-readmes) via approved Pull Requests are automatically added to the [website](https://maxontech.github.io/best-github-profile-readme/) using GitHub actions.
+The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is fully automized. Profiles that are added to the [markdown list below](#best-profiles-readmes) via approved Pull Requests are automatically added to the [website](https://maxrohowsky.github.io/best-github-profile-readme/) using GitHub actions.
 
 ## Table of Contents
 
