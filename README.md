@@ -84,6 +84,7 @@ The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is full
 | Syed       | Ibrahim     | [syedibrahim](https://github.com/syedibrahim)           | [README](https://github.com/syedibrahim/syedibrahim)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/syedibrahim.jpeg) </details>      |
 | Siby       | Lassana     | [sibylassana95](https://github.com/sibylassana95)       | [README](https://github.com/sibylassana95/sibylassana95)       | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sibylassana95.jpeg) </details>    |
 | Jakub      | Jankiewicz  | [jcubic](https://github.com/jcubic)                     | [README](https://github.com/jcubic/jcubic)                     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/jcubic.jpeg) </details>           |
+|Ru Chern | Chong | [ruchernchong](https://github.com/ruchernchong) | [README](https://github.com/ruchernchong/ruchernchong)||
 
 
 ## Contribute
