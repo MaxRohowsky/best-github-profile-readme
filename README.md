@@ -39,7 +39,7 @@ The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is full
 ## Best Profiles READMEs
 
 | First Name | Last Name   | GitHub Profile                                          | GitHub Readme                                                  | Preview                                                                                                 |
-| ---------- | ----------- | ------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+|------------|-------------| ------------------------------------------------------- | -------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------|
 | Adam       | Alston      | [adamalston](https://github.com/adamalston)             | [README](https://github.com/adamalston/adamalston)             | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/adamalston.jpeg) </details>       |
 | Abhishek   | Choudhary   | [theabbie](https://github.com/theabbie)                 | [README](https://github.com/theabbie/theabbie)                 | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/theabbie.jpeg) </details>         |
 | Brian      | Douglas     | [bdougie](https://github.com/bdougie)                   | [README](https://github.com/bdougie/bdougie)                   | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/bdougie.jpeg) </details>          |
@@ -84,6 +84,7 @@ The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is full
 | Syed       | Ibrahim     | [syedibrahim](https://github.com/syedibrahim)           | [README](https://github.com/syedibrahim/syedibrahim)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/syedibrahim.jpeg) </details>      |
 | Siby       | Lassana     | [sibylassana95](https://github.com/sibylassana95)       | [README](https://github.com/sibylassana95/sibylassana95)       | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sibylassana95.jpeg) </details>    |
 | Jakub      | Jankiewicz  | [jcubic](https://github.com/jcubic)                     | [README](https://github.com/jcubic/jcubic)                     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/jcubic.jpeg) </details>           |
+| Hirad      | Emamialagha  | [HiradEmami](https://github.com/HiradEmami)                     | [README](https://github.com/HiradEmami/HiradEmami)                     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/HiradEmami.jpeg) </details>       |
 
 
 ## Contribute
