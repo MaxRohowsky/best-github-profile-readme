@@ -18,7 +18,7 @@ Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxro
 Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxrohowsky.svg?style=social&label=Follow)
 <br>
 
-**Fun fact:** 
+**Fun fact:**
 <br>
 The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is fully automized. Profiles that are added to the [markdown list below](#best-profiles-readmes) via approved Pull Requests are automatically added to the [website](https://maxrohowsky.github.io/best-github-profile-readme/) using GitHub actions.
 
@@ -31,9 +31,9 @@ The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is full
   - [Contribute](#contribute)
   - [License](#license)
 
- 
-    
-    
+
+
+
 
 
 ## Best Profiles READMEs
@@ -61,6 +61,7 @@ The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is full
 | Ross       | Williams    | [rossjrw](https://github.com/rossjrw)                   | [README](https://github.com/rossjrw/rossjrw)                   | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/rossjrw.jpeg) </details>          |
 | Sagar      | Viradiya    | [sagar-viradiya](https://github.com/sagar-viradiya)     | [README](https://github.com/sagar-viradiya/sagar-viradiya)     | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/sagar-viradiya.jpeg) </details>   |
 | Taehyun    | Hwang       | [HwangTaehyun](https://github.com/HwangTaehyun)         | [README](https://github.com/HwangTaehyun/HwangTaehyun)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/HwangTaehyun.jpeg) </details>     |
+| Thibault    | Garel       | [Thibault-GAREL](https://github.com/Thibault-GAREL)         | [README](https://github.com/Thibault-GAREL/Thibault-GAREL)         | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/Thibault-GAREL.jpeg) </details>     |
 | Tim        | Burgan      | [timburgan](https://github.com/timburgan)               | [README](https://github.com/timburgan/timburgan)               | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/timburgan.jpeg) </details>        |
 | Tushar     | Mittal      | [techytushar](https://github.com/techytushar)           | [README](https://github.com/techytushar/techytushar)           | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/techytushar.jpeg) </details>      |
 | Yufan      | You         | [ouuan](https://github.com/ouuan)                       | [README](https://github.com/ouuan/ouuan)                       | <details> <summary>Preview</summary>![Preview Image](docs/screenshots/ouuan.jpeg) </details>            |
